@@ -148,7 +148,7 @@ div.stDownloadButton > button {
 # ─────────────────────────────────────────────
 # PASTE YOUR KEYS HERE
 # ─────────────────────────────────────────────
-GROQ_KEY   = "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"   # ← "gsk_xxxx"
+GROQ_KEY   = "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"   # ← "gsk_xxxx"
 GEMINI_KEY = "AIzaSyDzs-GFIa2EFE6MpB8BOWrX3JOm4VyFfLY" # ← "AIzaxxxx"
 
 # Firebase service account JSON — paste the whole dict here
